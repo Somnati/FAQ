@@ -11,5 +11,8 @@ List all Set abilties you get at start
 List all abilities
 How to get xp for Enhancables
 
+"How do you get xp for the Enhanceable ability?"
+//insert answer here
+
 [Home](../README.md)  
 [Back](Equipment%20Tab.md) | [Next](Rebirth.md)
